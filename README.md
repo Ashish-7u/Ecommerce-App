@@ -1,4 +1,4 @@
-# MERN Ecommerce 2024
+# MERN Ecommerce
 
 A full-stack ecommerce web application built with the MERN stack (MongoDB, Express, React, Node.js).  
 This project supports user authentication, product management, shopping cart, order processing, admin dashboard, and more.
