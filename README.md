@@ -26,7 +26,7 @@ This project supports user authentication, product management, shopping cart, or
 ## Project Structure
 
 ```
-mern-ecommerce-2024/
+mern-ecommerce/
 │
 ├── client/         # React frontend (Vite, Redux Toolkit, TailwindCSS)
 │   ├── src/
@@ -66,8 +66,8 @@ mern-ecommerce-2024/
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/<your-username>/mern-ecommerce-2024.git
-cd mern-ecommerce-2024
+git clone https://github.com/Ashish-7u/Ecommerce-App.git
+cd Ecommerce-App
 ```
 
 ---
@@ -140,3 +140,5 @@ Client runs on [http://localhost:5173](http://localhost:5173)
 - `server/routes`: Express route definitions
 
 ---
+
+
